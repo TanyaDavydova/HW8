@@ -1,0 +1,17 @@
+
+ .request_text{
+ font-size: 40px;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-weight: bold;
+ text-align: center;
+}
+
+#block_style{
+ height: 300px;
+ background: #589147;
+ }
+
+#second_block_style{
+ height: 300px;
+ background: #d018c9;
+}
